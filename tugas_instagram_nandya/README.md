@@ -1,3 +1,3 @@
-Instagram Clone by Ferina Ayu Fella Puspita
+Instagram Clone by Nandya Nurmala
 
 # instagram_clone
